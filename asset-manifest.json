@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mdaiki0730.github.io/csb-jdnbs/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://mdaiki0730.github.io/csb-jdnbs/static/js/main.ff73f3ef.chunk.js",
+    "main.js.map": "https://mdaiki0730.github.io/csb-jdnbs/static/js/main.ff73f3ef.chunk.js.map",
+    "runtime-main.js": "https://mdaiki0730.github.io/csb-jdnbs/static/js/runtime-main.9e1a2378.js",
+    "runtime-main.js.map": "https://mdaiki0730.github.io/csb-jdnbs/static/js/runtime-main.9e1a2378.js.map",
+    "static/js/2.afd9b8ba.chunk.js": "https://mdaiki0730.github.io/csb-jdnbs/static/js/2.afd9b8ba.chunk.js",
+    "static/js/2.afd9b8ba.chunk.js.map": "https://mdaiki0730.github.io/csb-jdnbs/static/js/2.afd9b8ba.chunk.js.map",
+    "index.html": "https://mdaiki0730.github.io/csb-jdnbs/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://mdaiki0730.github.io/csb-jdnbs/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.afd9b8ba.chunk.js.LICENSE.txt": "https://mdaiki0730.github.io/csb-jdnbs/static/js/2.afd9b8ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e1a2378.js",
+    "static/js/2.afd9b8ba.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.ff73f3ef.chunk.js"
+  ]
+}
